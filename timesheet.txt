@@ -1,0 +1,64 @@
+#########RUN GAME ON jump.py FILE############
+Timesheet
+
+Deliverable #1
+
+Project Proposal, 1 hour:
+
+Wrote down some notes before writing the project proposal.
+
+Competitive Analysis, 3 hours:
+
+It took a while to search the web for some games similar to the one that I want
+to make and on top of that, downloading and playing each game to analyze the
+features the games had to offer. Writing the document took about 45 minutes.
+
+
+Storyboard, 2 hours:
+
+Thinking of the design and drawing the pictures took a total of 2 hours. A lot
+of failed drawings happened until finally I drew some pictures I was happy with.
+
+
+Actual Code, 7 hours:
+
+Got caught up fixing bugs and getting the physics of the jump down took a while.
+
+Deliverable #2
+
+Got physics down, 5 hours: 
+    -Got the platforms to move correctly according to the player only when 
+    needed
+
+Put images in, 2 hours:
+    -Took me a while to find the right pictures and to learn how to put pictures
+    in correctly
+
+Put a few enemies in there, 1 hour:
+    -So far, tongue alien and enemy aircraft. 
+
+Projectiles, 1 hour:
+    - Put in projectiles both for player and for enemy.
+
+Constructed the instructions page, 40 minutes:
+    -Made instructions page
+
+Put score in, 20 minutes:
+    -Put the score in and made it a playable game.
+
+Deliverable #3
+
+Put in Race Mode, 8 hours:
+    - Put in working AI
+    - Set start and finish
+
+Fixed platform and other various bugs, 6 hours:
+    - Fixed bugs so game runs smoothly
+    - Made enemy aircraft smarter (follows you around)
+
+Updated instructions, 1 hour:
+    - Made instructions page look nicer as well as added a new page
+
+TOTAL: 38 HOURS
+
+
